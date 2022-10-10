@@ -1,1 +1,0 @@
-{"version":3,"file":"contextMiddleware.js","sourceRoot":"","sources":["../../src/middlewares/contextMiddleware.ts"],"names":[],"mappings":";;AAGA,SAAwB,kBAAkB,CAAC,IAAU;IACnD,OAAO,CAAC,GAAY,EAAE,GAAa,EAAE,IAAkB,EAAE,EAAE;QACzD,yBAAyB;QACzB,GAAG,CAAC,IAAI,GAAG,IAAI,CAAC;QAChB,IAAI,EAAE,CAAC;IACT,CAAC,CAAC;AACJ,CAAC;AAND,qCAMC"}

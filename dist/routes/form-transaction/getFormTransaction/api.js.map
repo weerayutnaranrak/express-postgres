@@ -1,1 +1,0 @@
-{"version":3,"file":"api.js","sourceRoot":"","sources":["../../../../src/routes/form-transaction/getFormTransaction/api.ts"],"names":[],"mappings":";;;;;AAAA,yFAAkE;AAClE,gEAA2E;AAC3E,wDAAgC;AAChC,4DAAoC;AAEpC,kBAAe;IACb,IAAI,EAAE,EAAE;IACR,OAAO,EAAE,sBAAc,CAAC,GAAG;IAC3B,WAAW,EAAE,CAAC,IAAA,wBAAe,GAAE,CAAC;IAChC,SAAS,EAAT,mBAAS;IACT,OAAO,EAAP,iBAAO;CACD,CAAC"}
